@@ -1,5 +1,5 @@
 /**
- *Submitted for verification at BscScan.com on 2022-07-21
+ *Submitted for verification at BscScan.com on 2022-07-30
 */
 
 pragma solidity 0.8.15;
@@ -696,7 +696,7 @@ contract MillionPixel is Context, IBEP20, Ownable {
     uint256 private _tFeeTotal;
      
     string private _name = "Million Pixel";
-    string private _symbol = "IXI";
+    string private _symbol = "XIX";
     uint8 private _decimals = 9;
     
     uint256 _taxFee;
